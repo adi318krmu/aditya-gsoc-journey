@@ -4,6 +4,12 @@ GSoC 2026
 > Tracking my journey from start to GSoC 2026 submission.
 > Primary stack: **Node.js**, **Express.js**, **MongoDB**.
 
+# GSoC target organisations
+>Rocket.Chat
+>The Palisadoes Foundation
+>FOSSASIA
+>Internet Archive
+>GNOME Foundation
 ---
 
 ## Week 1 — [DD/MM/YYYY to DD/MM/YYYY]
